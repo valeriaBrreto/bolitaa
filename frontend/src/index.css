@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: antiquewhite;
+  background-color: rgb(24, 24, 24);
+}
+.h-64 {
+  height: 11rem;
+}
