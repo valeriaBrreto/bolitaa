@@ -1,4 +1,5 @@
 # arduinoEsplora2draw
+![image](https://github.com/user-attachments/assets/692d6139-aa9a-47a0-95a0-76d4a504d3e6)
 
 ## Project Structure
 
