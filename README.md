@@ -1,5 +1,20 @@
 # arduinoEsplora2draw
+
 ![image](https://github.com/user-attachments/assets/692d6139-aa9a-47a0-95a0-76d4a504d3e6)
+
+## Instructions
+
+To run the project, use the `play.sh` script. This script will start all necessary services.
+
+```sh
+./play.sh
+```
+
+To stop the project, use the `stop.sh` script. This script will stop all services.
+
+```sh
+./stop.sh
+```
 
 ## Project Structure
 
