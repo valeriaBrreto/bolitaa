@@ -5,9 +5,23 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.6;
-  color: antiquewhite;
-  background-color: rgb(24, 24, 24);
+  color: rgb(255, 255, 255);
+  background-color: rgb(221, 221, 221);
 }
 .h-64 {
   height: 11rem;
+}
+
+canvas{
+
+  background-color: rgb(255, 255, 255);
+}
+
+.tiempo button{
+  
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(22, 108, 255);
+  padding: 10px;
+  margin: 5px 20px;
+  background-color: rgb(227, 68, 68);
 }
